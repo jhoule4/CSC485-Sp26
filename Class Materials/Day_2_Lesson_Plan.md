@@ -1,10 +1,11 @@
 # Day 2
 
 ## Overview of class structure
-
+ 
+ - Introduce common workflow
+ - TODO template
  - Talk about local vs cloud
  - Folder structure, knowing your computer
- - Introduce common workflow
 
 ---
 
