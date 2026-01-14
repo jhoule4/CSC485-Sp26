@@ -1,29 +1,30 @@
 # About Me (You)
 
 ## Name:
+
 My name is Nora Cauley. But I like to go by Nora.
 
 ## Major/Minors:
 
-- Marketing
-- Sociology
-- Data Science
+* Marketing
+* Sociology
+* Data Science
 
 ## Favorite Food:
 
-- What is your favorite food? Tacos
-- What is your favorite cuisine? Mexican
+* What is your favorite food? Pizza
+* What is your favorite cuisine? Mexican
 
 ## Hobbies:
 
-- Reading
-- Working Out
-- Hanging out with friends
+* Reading
+* Working Out
+* Hanging out with friends
 
 ## What you want to do when you graduate?
 
-<this is a big question you don't need to know what you want to do. you're still young don't worry>
+I want to go into Market Research.
 
 ## What's your favorite vacation spot?
 
-- Hawaii
+* Hawaii
