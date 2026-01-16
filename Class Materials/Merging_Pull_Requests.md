@@ -44,7 +44,7 @@ Ask yourself:
 On the PR page, confirm:
 - ✅ All checks are passing
 - ⚠️ No unresolved conflicts
-- 🔒 Branch protection rules are satisfied
+- Check changed files
 
 If something is blocking the merge, GitHub will explain why.
 
@@ -61,7 +61,7 @@ Click the **Merge pull request** button and select a method:
 #### Squash and merge
 - Combines all commits into one
 - Creates a cleaner history
-- Best for small or student PRs
+- Best for small PRs
 
 #### Rebase and merge
 - Replays commits onto `main`
@@ -81,6 +81,7 @@ Click the **Merge pull request** button and select a method:
 ### 6. Delete the branch (recommended)
 After merging:
 - Click **Delete branch** on the PR page
+- This should happen by default
 
 This keeps the repository clean.
 
